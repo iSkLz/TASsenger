@@ -4,7 +4,7 @@ This repository holds the source code for TASsenger, a WÏP TASing mod for The M
 
 # User Installation
 For convenience TASsenger is written using the uModFramework, so you need to install it first from the [official website](https://umodframework.com/download).
-Then download the mod's file from the releases section and double click it, UMF will automatically install it.
+Then download the mod's file from the [releases section](https://github.com/iSkLz/TASsenger/releases) and double click it, UMF will automatically install it.
 UMF doesn't conflict with the trainer mod so you can use both the trainer and TASsenger at the same time.
 Once installed, press L to play the inputs, read the following section for intel on using the mod.
 
